@@ -9,4 +9,4 @@ Right now, I am working with Kotlin, Flow, Coroutines, MVVM and Clean Architectu
 
 I love understanding things to the core so please teach me!
 
-I also love team based competitive video games, I like to think we're on the same boat heading towards the same direction, so let's collaborate 😁
+
