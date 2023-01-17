@@ -5,7 +5,7 @@ I am an Android Dev with many years of working experience including :
 - Logistics Management 📦
 - Business development 🎯
 
-Right now, I am working with Kotlin, Flow, Coroutines, MVVM and Clean Architecture.
+Right now, I am working with Kotlin, Flow, Coroutines, MVVM with a Clean Architecture approach.
 
 I love understanding things to the core so please teach me!
 
