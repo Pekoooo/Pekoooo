@@ -7,6 +7,8 @@ I am an Android Dev with many years of working experience including :
 
 Right now, I am working with Kotlin, Flow, Coroutines, MVVM with a Clean Architecture approach.
 
-I love understanding things to the core so please teach me!
+I love understanding things to the core so please do not hesitate to add me on linkedin!
+
+Linkedin : https://www.linkedin.com/in/clement-le-corre/
 
 
