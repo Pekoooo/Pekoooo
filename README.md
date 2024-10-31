@@ -1,14 +1,26 @@
-# Hey ! I'm Clem, Nice to meet you
+# Hi there! 👋 I'm Clément
 
-I am an Android Dev with many years of working experience including :
-- Project Management 📔
-- Logistics Management 📦
-- Business development 🎯
+I'm an Android Developer specializing in hardware integration and modern Android development practices. 
 
-Right now, I am working with Kotlin, Flow, Coroutines, MVVM with a Clean Architecture approach.
+## 🚀 What I'm working on
+- Building robust Android applications with hardware integration
+- Implementing clean architecture with MVVM
+- Creating efficient USB communication protocols
+- Optimizing app performance and stability
 
-I love understanding things to the core and exchange with others so please do not hesitate to add me on linkedin!
+## 💻 Tech Stack
+- Kotlin | Flow | Coroutines
+- MVVM | Clean Architecture
+- Room | SQLite
+- Hardware Integration & USB Protocols
+- Unit Testing | CI/CD
 
-Linkedin : https://www.linkedin.com/in/clement-le-corre/
+## 🌱 Currently exploring
+- Jetpack Compose
+- Latest Android architectural patterns
+- Performance optimization techniques
 
+## 🤝 Let's connect!
+I'm passionate about quality code and love exchanging ideas with other developers. Feel free to reach out!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-le-corre/)
