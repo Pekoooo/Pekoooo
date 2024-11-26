@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Clément
 
-I'm an Android Developer specializing in hardware integration and modern Android development practices. 
+I'm an Android Developer specializing in IoT / hardware integration and modern Android development practices. 
 
 ## 🚀 What I'm working on
 - Building robust Android applications with hardware integration
